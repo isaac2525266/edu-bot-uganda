@@ -2,7 +2,7 @@ import logging from aiogram import Bot, Dispatcher, types, executor from aiogram
 
 === SETUP ===
 
-API_TOKEN = '7771608687:AAGdd5omJpPTYKFPwwfT3xOiFVUHbBcXQwo' OPENROUTER_API_KEY = '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' ADMIN_ID = 8064364873
+API_TOKEN = '771608687:AAGdd5omJpPTYKFPwwfT3xOiFVUHbBcXQwo' OPENROUTER_API_KEY = 'sk-or-v1-8f15198ed3c192893dfd1301a02cbf51820f30cb4aa95547692046fb2025d43' ADMIN_ID = 806436483
 
 logging.basicConfig(level=logging.INFO)
 
